@@ -1,0 +1,14 @@
+layout_spectrum: 0.9516129
+typography_spectrum: 0.8673835
+color:
+  saturation: 0.923706
+  lightness: 0.8597534
+  brandStrength: 1
+  brandColors:
+    - '#221E15'
+    - '#F0EAE7'
+    - '#889B88'
+    - '#41D1CE'
+    - '#921E1D'
+  rhythmicContrast: 0.9226956
+name: FilmIn140
