@@ -1,14 +1,26 @@
-layout_spectrum: 0.9516129
-typography_spectrum: 0.8673835
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
-  saturation: 0.923706
-  lightness: 0.8597534
+  saturation: 0.3351254
   brandStrength: 1
+  lightness: 0.2114695
   brandColors:
-    - '#221E15'
-    - '#F0EAE7'
-    - '#889B88'
-    - '#41D1CE'
-    - '#921E1D'
-  rhythmicContrast: 0.9226956
+    - '#CB2228'
+    - '#EAFFFF'
+    - '#E2CDD7'
+    - '#D15365'
+    - '#D89AB3'
+  rhythmicContrast: 0.3530466
+typography_spectrum: 0.8673835
+layout_spectrum: 0.9516129
 name: FilmIn140
