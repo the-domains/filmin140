@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[FilmIn140]]></title>
         <description><![CDATA[FilmIn140]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/filmin140/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 23 Feb 2016 18:44:35 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 23 Feb 2016 18:46:22 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/filmin140/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/44251caf-717d-4228-94d3-2b667f439e63.png">]]></description>
+            <link>https://thegrid.ai/filmin140/f7533a9c-9b85-4563-9fba-dc16d888855b/index.html</link>
+            <guid isPermaLink="false">f7533a9c-9b85-4563-9fba-dc16d888855b</guid>
+            <pubDate>Tue, 23 Feb 2016 18:46:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>ScaryMovieV was fun and at times funny. It is what it is, so don't go in expecting much, stay open-minded and enjoy the slapstick humor. D+</p>]]></description>
