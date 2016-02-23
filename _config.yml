@@ -4,23 +4,23 @@ collections:
       number: 15
       paginate: true
       navigable: true
-    permalink:
-      path: '/:title/'
     feed:
       path: /rss.xml
       format: rss
       number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.8673835
 color:
   saturation: 0.3351254
   brandStrength: 1
-  lightness: 0.2114695
+  rhythmicContrast: 0.3530466
   brandColors:
     - '#CB2228'
     - '#EAFFFF'
     - '#E2CDD7'
     - '#D15365'
     - '#D89AB3'
-  rhythmicContrast: 0.3530466
-typography_spectrum: 0.8673835
-layout_spectrum: 0.9516129
+  lightness: 0.2114695
+layout_spectrum: 0.6899642
 name: FilmIn140
